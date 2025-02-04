@@ -1,4 +1,4 @@
-# 🚀 PUMPFUN ($PUMP) - The Only Pump You'll Actually Enjoy!
+# 🚀 PUMPFUN (PUMP) - The Only Pump You'll Actually Enjoy!
 
 ![PumpFun Banner](Pump_fun_logo.png)
 
