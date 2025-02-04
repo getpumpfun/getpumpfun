@@ -14,9 +14,9 @@ PUMPFUN ($PUMP) is the most entertaining memecoin on Solana.
 - 🌟 **Community Members:** 1,337  
 
 ## 💸 How to Buy
-- Visit [pump.fun](https://pump.fun)  
+- Visit [pump.fun/coin/pump](https://pump.fun/coin/tAz6PzXRPV2mtRakKCBKHvyn2TLM9GtRgSLDdzapump?coin_sort=market_cap&origin=search_bar)
 - Connect your **Solana Wallet**  
-- Buy **$PUMP** tokens  
+- Buy **PUMP** tokens  
 - Join the **degen community** 🚀  
 
 ## 🌎 Join the Revolution
