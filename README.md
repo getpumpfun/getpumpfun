@@ -20,7 +20,7 @@ PUMPFUN ($PUMP) is the most entertaining memecoin on Solana.
 - Join the **degen community** 🚀  
 
 ## 🌎 Join the Revolution
-- 🌐 [Website](https://pumpfun.xyz)  
+- 🌐 [Website](https://getpumpfun.github.io/)  
 - 📱 [Telegram](http://t.me/getpumpfun)  
 - 🐦 [Twitter](https://x.com/getpumpfun)  
 
