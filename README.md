@@ -1,6 +1,6 @@
 # 🚀 PUMPFUN ($PUMP) - The Only Pump You'll Actually Enjoy!
 
-![PumpFun Banner](https://your-image-url.com/banner.png)
+![PumpFun Banner](Pump_fun_logo.png)
 
 ## 🧑‍🚀 What is PUMPFUN?
 PUMPFUN ($PUMP) is the most entertaining memecoin on Solana.  
@@ -14,7 +14,7 @@ PUMPFUN ($PUMP) is the most entertaining memecoin on Solana.
 - 🌟 **Community Members:** 1,337  
 
 ## 💸 How to Buy
-- Visit [pump.fun/create](https://pump.fun)  
+- Visit [pump.fun](https://pump.fun)  
 - Connect your **Solana Wallet**  
 - Buy **$PUMP** tokens  
 - Join the **degen community** 🚀  
@@ -25,8 +25,8 @@ PUMPFUN ($PUMP) is the most entertaining memecoin on Solana.
 - 🐦 [Twitter](https://x.com/getpumpfun)  
 
 ## 🎭 Meme Gallery
-![Meme 1](https://your-image-url.com/meme1.png)  
-![Meme 2](https://your-image-url.com/meme2.gif)  
+![Meme 1](dash-coin.png)  
+![Meme 2](bitcoin.png)  
 
 ## ❓ FAQ
 **What is PUMPFUN?**  
